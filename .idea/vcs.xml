@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LibraryApp-Java/library-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LibraryApp-Java/library-app-Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LibraryApp-Java/library-app/library-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LibraryApp-Kotlin/library-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LibraryApp-Kotlin/library-app-Kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LibraryApp-Kotlin/library-app-Kotlin/library-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LibraryApp-Kotlin/library-app/library-app" vcs="Git" />
+  </component>
+</project>
